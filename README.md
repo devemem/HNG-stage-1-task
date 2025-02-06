@@ -1,4 +1,6 @@
-Number Classification API 🚀
+Number Classification API 
+
+This repository contains a Python Flask API that classifies numbers, providing interesting mathematical properties and a fun fact. This project was completed as part of the HNG Internship Stage 1 for the DevOps track.
 
 Overview
 
